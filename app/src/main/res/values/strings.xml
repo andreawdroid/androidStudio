@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Examen-Moises</string>
+    <string name="Travels">Viaja</string>
+    <string name="reservation">Reserva</string>
+    <string name="enter">ingresa</string>
+    <string name="buy">Comprar</string>
+
+    <string name="Choose_your_trip">Ticket</string>
+    <string name="Machu_Picchu">Machu Picchu</string>
+    <string name="text_viaje2">considerada, al mismo tiempo, una obra maestra de la arquitectura y la ingeniería.así como una de las siete maravillas del mundo.</string>
+    <string name="Medellin">Medellin</string>
+    <string name="text_viaje3">Medellín es un distrito colombiano, capital del departamento de Antioquia.</string>
+    <string name="Rio_de_Janeiro">Rio de Janeiro</string>
+    <string name="text_viaje4"> Fue la capital del Imperio portugués entre 1808 y 1822 y, más tarde, la capital de Brasil desde 1822, cuando la nación declaró su independencia del país luso.  de Brasilia, en 1960.</string>
+    <string name="piramides">piramides</string>
+    <string name="text_viaje5">Fue la capital del Imperio portugués entre 1808 y 1822 y, más tarde, la capital de Brasil desde 1822, cuando la nación declaró su independencia del país luso.  de Brasilia, en 1960.</string>
+    <string name="informacion">informacion</string>
+    <string name="informacionviajes">informacion de su viaje</string>
+
+
+</resources>
